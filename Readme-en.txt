@@ -5,6 +5,7 @@ Team
 Artem Plaksin AKA maniyax — general leadership
 Sergey Parshakov AKA Electrik — Editing of speaker recordings and sound processing
 Beka Gozalishvili AKA Gozaltech — voice training
+Zvonimir Stanecic aka 9a5dsz — voice training
 
 Speaker: Lyubov Sablina (a teacher at "the Lingua Belle" language centre)
 
